@@ -1,0 +1,22 @@
+   p {
+    font-family: 'Source Serif Pro', serif;
+    color: darkslategray;
+    font-weight: 400;
+    font-size: large;
+}
+
+.list-group-item {
+    color: darkslategray;
+}
+
+.form-label {
+    color: darkslategray;  
+}
+
+.form-text {
+    color: darkslategray; 
+}
+
+.navigation {
+    color: darkslategray;   
+}
